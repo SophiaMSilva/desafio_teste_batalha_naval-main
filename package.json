@@ -1,0 +1,17 @@
+{
+  "name": "desafio_teste_batalha_naval",
+  "version": "1.0.0",
+  "description": "Implementação e casos de teste da Batalha Naval 10x10 em JavaScript",
+  "main": "batalha-naval.js",
+  "scripts": {
+    "test": "node --test batalha-naval.test.js"
+  },
+  "keywords": [
+    "batalha-naval",
+    "javascript",
+    "testes",
+    "node-test"
+  ],
+  "author": "",
+  "license": "ISC"
+}
